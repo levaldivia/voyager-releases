@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel><title>Voyager Stable</title><item>
-<title>Awaiting the first Stable release</title>
-<sparkle:version>0</sparkle:version><sparkle:channel>stable</sparkle:channel>
-<sparkle:informationalUpdate></sparkle:informationalUpdate><link>https://github.com/levaldivia/voyager-releases/releases</link>
-</item></channel></rss><!-- sparkle-signatures:
-edSignature: ZEHyadOUcdr1Ya2idZpmc4N+i//3+6FDbaCflwFLts71fnQ3dn0CzWn2HoKxNQ8CanU/B/95rsIdXcrrbsiVDg==
-length: 702
+    <channel>
+        <title>Voyager</title>
+        <item>
+            <title>0.1.31</title>
+            <pubDate>Fri, 11 Sep 2026 22:12:55 +0000</pubDate>
+            <sparkle:channel>stable</sparkle:channel>
+            <sparkle:version>31.3.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/levaldivia/voyager-releases/releases/download/stable-31.3.1/Voyager-stable-31.3.1.zip" length="106429826" type="application/octet-stream" sparkle:edSignature="LqilPwuW9UWgUzxDiKwwX5NJOjdz5Epmibk1ZOA1zPbeJJKaX+RK6UAhfkcqPWBbyLHXycAhU5CgkNHpmctHBw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ZS7rGbOmZgoe4pbbF2TfnZrvLwRaRVpqCzvLs4GpROVwzDAEhv1Vz9Tx8qkZeRQpmxyU+0eH/UBXGGnP1eDsCg==
+length: 1206
 -->
