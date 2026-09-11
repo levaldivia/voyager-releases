@@ -2,7 +2,7 @@
 
 Voyager is a native development environment for Apple Silicon Macs running macOS 15 or later.
 
-**Release setup is in progress. No signed installer has been published yet.**
+Installers appear on GitHub Releases once a signed build has been published.
 
 ## Download and install
 
