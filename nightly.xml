@@ -11,10 +11,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/levaldivia/voyager-releases/releases/download/nightly-31.4.1/Voyager-nightly-31.4.1.zip" length="106429768" type="application/octet-stream" sparkle:edSignature="oK88GJ34csZ3mUF+wR8eGEQpUGLyiZtHFM5IzXSMtme1/afPE8VzT/RMqEPP2m4oKLzRHGrkhZrHkoQAKu4SCw=="></enclosure>
+            <enclosure url="https://github.com/levaldivia/voyager-releases/releases/download/stable-31.3.1/Voyager-nightly-31.4.1.zip" length="106429768" type="application/octet-stream" sparkle:edSignature="oK88GJ34csZ3mUF+wR8eGEQpUGLyiZtHFM5IzXSMtme1/afPE8VzT/RMqEPP2m4oKLzRHGrkhZrHkoQAKu4SCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zt7fHGj/j9wfdYd1YJxL6x3ooH06EJOeMVRxXMSSlIXkgvJZxUy/Z2Yq6/954hEB7uz9tCujkzCXFWgBqwU8Ag==
-length: 1209
+edSignature: Y601b+hS2hqGvnVMdCBm8jKq9DDHBr/+abE+kkfGjQ9ZFWN14JvLGiWk++TgsopZS8jG+Qc6uzDlRHBCQdC5Dg==
+length: 1208
 -->
