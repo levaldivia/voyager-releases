@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Voyager</title>
         <item>
-            <title>0.1.41</title>
-            <pubDate>Sat, 12 Sep 2026 22:20:30 +0000</pubDate>
+            <title>0.1.45</title>
+            <pubDate>Sat, 12 Sep 2026 23:57:55 +0000</pubDate>
             <sparkle:channel>nightly</sparkle:channel>
-            <sparkle:version>41.15.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+            <sparkle:version>45.19.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/levaldivia/voyager-releases/releases/download/nightly-41.15.1/Voyager-nightly-41.15.1.zip" length="106855046" type="application/octet-stream" sparkle:edSignature="hIWaj/3TltkYX+DZMNYta5qW3nY6ampP5BFVTC8GD/y/CZP3Ari48Os/a9RVZByvIoYKPcz1zDMyjs8tD8W/Cw=="></enclosure>
+            <enclosure url="https://github.com/levaldivia/voyager-releases/releases/download/nightly-45.19.1/Voyager-nightly-45.19.1.zip" length="106841771" type="application/octet-stream" sparkle:edSignature="TIHISkM3hlJWZo6hLeML02YG6rnm4i37Efo8bvZR+ekex+k04pJUH80BD5jGwpz7U6xMUpXMpUKUtmZrmSPgCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Fx4XK9YzXJ5fCgqcOcTKIHbMMtRWqBRZkfHXZL6t+j1BJXD5P98ZsSfV7w7v2q4WiQWHEbBhvMN+x6wCVyXmCg==
+edSignature: tzUi5uSvIIK9XgsaHtB5iNC1odYDFxOqTw5m0dgGuKj6PxW4CvdtFbyq52fmf8HPs+g38vX+Ajk0XDxNUxcLCQ==
 length: 1212
 -->
